@@ -1,0 +1,29 @@
+# standard bce
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1424
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1494
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1417
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1491
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1505
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-bce.ep0.scidocs.txt 0.1433
+
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1450
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1438
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1484
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1502
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1493
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-bce.ep1.scidocs.txt 0.1424
+
+# bce with qq
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1478
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1575
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1609
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1524
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1590
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-bce_QQ.ep0.scidocs.txt 0.1616
+
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1494
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1593
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1600
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1534
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1581
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-bce_QQ.ep1.scidocs.txt 0.1599

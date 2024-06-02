@@ -1,0 +1,42 @@
+# baseline  
+# query centric using bce with ALL
+calibrate_margin_ibn_dd-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1619
+calibrate_margin_ibn_na-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1624
+calibrate_margin_ibn_qd-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1651
+calibrate_rank_ibn_dd-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1626
+calibrate_rank_ibn_na-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1636
+calibrate_rank_ibn_qd-20000_qc_groupwise_bce_all.ep0.scidocs.txt 0.1633
+
+calibrate_margin_ibn_dd-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1611
+calibrate_margin_ibn_na-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1643
+calibrate_margin_ibn_qd-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1644
+calibrate_rank_ibn_dd-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1621
+calibrate_rank_ibn_na-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1652
+calibrate_rank_ibn_qd-20000_qc_groupwise_bce_all.ep1.scidocs.txt 0.1631
+
+# query centric using bce with hard
+calibrate_margin_ibn_dd-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1629
+calibrate_margin_ibn_na-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1652
+calibrate_margin_ibn_qd-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1680
+calibrate_rank_ibn_dd-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1627
+calibrate_rank_ibn_na-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1647
+calibrate_rank_ibn_qd-20000_qc_groupwise_bce_hard.ep0.scidocs.txt 0.1663
+
+calibrate_margin_ibn_dd-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1614
+calibrate_margin_ibn_na-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1655
+calibrate_margin_ibn_qd-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1670
+calibrate_rank_ibn_dd-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1630
+calibrate_rank_ibn_na-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1660
+calibrate_rank_ibn_qd-20000_qc_groupwise_bce_hard.ep1.scidocs.txt 0.1650
+
+# this is the cherrypicking version.
+baseline_bs4_top1-20000_qc_groupwise_bce_hard.scidocs.txt 0.1694
+baseline_bs4_top2-20000_qc_groupwise_bce_hard.scidocs.txt 0.1689
+baseline_bs4_top4-20000_qc_groupwise_bce_hard.scidocs.txt 0.1685
+calibrate_margin_ibn_dd-20000_qc_groupwise_bce_hard.scidocs.txt 0.1648
+calibrate_margin_ibn_na-20000_qc_groupwise_bce_hard.scidocs.txt 0.1687
+calibrate_margin_ibn_qd-20000_qc_groupwise_bce_hard.scidocs.txt 0.1701
+calibrate_rank_ibn_dd-20000_qc_groupwise_bce_hard.scidocs.txt 0.1630
+calibrate_rank_ibn_na-20000_qc_groupwise_bce_hard.scidocs.txt 0.1664
+calibrate_rank_ibn_qd-20000_qc_groupwise_bce_hard.scidocs.txt 0.1684
+

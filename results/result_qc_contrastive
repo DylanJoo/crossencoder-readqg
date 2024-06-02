@@ -1,0 +1,14 @@
+# baseline 
+calibrate_margin_ibn_dd-20000_qc_contrastive.ep0.scidocs.txt 0.1574
+calibrate_margin_ibn_na-20000_qc_contrastive.ep0.scidocs.txt 0.1614
+calibrate_margin_ibn_qd-20000_qc_contrastive.ep0.scidocs.txt 0.1597
+calibrate_rank_ibn_dd-20000_qc_contrastive.ep0.scidocs.txt 0.1576
+calibrate_rank_ibn_na-20000_qc_contrastive.ep0.scidocs.txt 0.1629
+calibrate_rank_ibn_qd-20000_qc_contrastive.ep0.scidocs.txt 0.1579
+
+calibrate_margin_ibn_dd-20000_qc_contrastive.ep1.scidocs.txt 0.1594
+calibrate_margin_ibn_na-20000_qc_contrastive.ep1.scidocs.txt 0.1629
+calibrate_margin_ibn_qd-20000_qc_contrastive.ep1.scidocs.txt 0.1589
+calibrate_rank_ibn_dd-20000_qc_contrastive.ep1.scidocs.txt 0.1577
+calibrate_rank_ibn_na-20000_qc_contrastive.ep1.scidocs.txt 0.1643
+calibrate_rank_ibn_qd-20000_qc_contrastive.ep1.scidocs.txt 0.1573

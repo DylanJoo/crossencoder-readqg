@@ -1,0 +1,108 @@
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4001
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4010
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4037
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.3951
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4007
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4057
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4371
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.3988
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4136
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4298
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4049
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4181
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4303
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.3965
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.arguana.txt 0.4124
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4277
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4013
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.arguana.txt 0.4184
+
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3436
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3407
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3408
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3423
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3458
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3457
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3380
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3402
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3414
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3404
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3458
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3467
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3410
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3442
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.fiqa.txt 0.3466
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3398
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3473
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.fiqa.txt 0.3475
+
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3533
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3527
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3537
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3538
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3526
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3522
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3535
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3511
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3500
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3541
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3514
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3497
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3540
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3513
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.nfcorpus.txt 0.3486
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3535
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3519
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.nfcorpus.txt 0.3512
+
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1656
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1658
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1654
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1675
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1665
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1672
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1645
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1666
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1642
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1638
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1660
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1634
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1593
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1668
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.scidocs.txt 0.1644
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1566
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1668
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.scidocs.txt 0.1651
+
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.7092
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.7069
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.7060
+baseline_bs4_top1-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7122
+baseline_bs4_top2-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7066
+baseline_bs4_top4-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7069
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.7152
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.6938
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.6979
+calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7146
+calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.6964
+calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7008
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.7115
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.6905
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep0.scifact.txt 0.6951
+calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.7138
+calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.6912
+calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge.ep1.scifact.txt 0.6997
+
+# groupbce hard hinge of qq (qq as positive)
+# calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1651
+# calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1720
+# calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1703
+# calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1657
+# calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1694
+# calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep0.scidocs.txt 0.1717
+# calibrate_margin_ibn_dd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1660
+# calibrate_margin_ibn_na-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1714
+# calibrate_margin_ibn_qd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1668
+# calibrate_rank_ibn_dd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1648
+# calibrate_rank_ibn_na-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1694
+# calibrate_rank_ibn_qd-20000_groupwise_bce_hard-hinge_QQ_margin=1.ep1.scidocs.txt 0.1703
